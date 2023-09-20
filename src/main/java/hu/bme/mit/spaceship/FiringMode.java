@@ -9,8 +9,5 @@ public enum FiringMode {
 }
 
 
-<<<<<<< HEAD
 //Addig random comment for the sake of the exercise
-=======
-//adding another line of comment to possibly cause conflict
->>>>>>> branch-B
+
