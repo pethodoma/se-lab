@@ -7,3 +7,6 @@ package hu.bme.mit.spaceship;
 public enum FiringMode {
   SINGLE, ALL
 }
+
+
+//adding another line of comment to possibly cause conflict
