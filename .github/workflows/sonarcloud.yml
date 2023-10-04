@@ -1,3 +1,4 @@
+#new commit is needed for successful build
 name: SonarCloud
 on:
   push:
